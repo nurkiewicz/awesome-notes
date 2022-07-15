@@ -5,3 +5,7 @@
 = Trainings
 
 * https://github.com/mikemybytes/kafka-training
+
+= More notes
+
+* https://github.com/mikemybytes/awesome-lost-and-found
