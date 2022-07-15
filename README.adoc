@@ -1,3 +1,7 @@
 = Cloud
 
 * https://free-for.dev[free-for.dev]
+
+= Trainings
+
+* https://github.com/mikemybytes/kafka-training
