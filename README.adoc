@@ -6,6 +6,12 @@
 
 * https://github.com/mikemybytes/kafka-training
 
+= Pro tips
+
+== Testing
+
+* https://threadreaderapp.com/thread/1549332873219657730.html[Few hints on how to write better tests]
+
 = More notes
 
 * https://github.com/mikemybytes/awesome-lost-and-found
