@@ -16,6 +16,15 @@
 
 * https://rieckpil.de/spring-boot-testing-mockmvc-vs-webtestclient-vs-testresttemplate/[Spring Boot Testing: MockMvc vs. WebTestClient vs. TestRestTemplate]
 
+= Tools
+
+== Diagrams
+
+* https://kroki.io/
+* https://dreampuf.github.io/GraphvizOnline
+* https://yuml.me/diagram/scruffy/class/samples
+* https://www.websequencediagrams.com/
+
 = More notes
 
 * https://github.com/mikemybytes/awesome-lost-and-found
