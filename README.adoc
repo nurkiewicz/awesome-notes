@@ -1,3 +1,5 @@
+:toc:
+
 = Cloud
 
 * https://free-for.dev[free-for.dev]
