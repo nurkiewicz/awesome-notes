@@ -27,6 +27,6 @@
 * https://yuml.me/diagram/scruffy/class/samples
 * https://www.websequencediagrams.com/
 
-= More notes
+= Other people's notes
 
 * https://github.com/mikemybytes/awesome-lost-and-found
