@@ -1,32 +1,36 @@
 :toc:
+:toclevels: 2
 
-= Cloud
+= My personal notes
+
+== Cloud
 
 * https://free-for.dev[free-for.dev]
 
-= Trainings
 
-* https://github.com/mikemybytes/kafka-training
+== Pro tips
 
-= Pro tips
-
-== Testing
+=== Testing
 
 * https://threadreaderapp.com/thread/1549332873219657730.html[Few hints on how to write better tests]
 
-== Spring
+=== Spring
 
 * https://rieckpil.de/spring-boot-testing-mockmvc-vs-webtestclient-vs-testresttemplate/[Spring Boot Testing: MockMvc vs. WebTestClient vs. TestRestTemplate]
 
-= Tools
+== Tools
 
-== Diagrams
+=== Diagrams
 
 * https://kroki.io/
 * https://dreampuf.github.io/GraphvizOnline
 * https://yuml.me/diagram/scruffy/class/samples
 * https://www.websequencediagrams.com/
 
-= Other people's notes
+== Trainings
+
+* https://github.com/mikemybytes/kafka-training
+
+== Other people's notes
 
 * https://github.com/mikemybytes/awesome-lost-and-found
