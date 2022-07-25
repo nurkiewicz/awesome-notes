@@ -27,6 +27,10 @@
 * https://yuml.me/diagram/scruffy/class/samples
 * https://www.websequencediagrams.com/
 
+== System Design
+
+* https://mobile.twitter.com/javinpaul/status/1536580563632418816[System Design Interview Cheat Sheet]
+
 == Trainings
 
 * https://github.com/mikemybytes/kafka-training
