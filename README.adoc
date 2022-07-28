@@ -35,6 +35,11 @@
 
 * https://github.com/mikemybytes/kafka-training
 
+== Security
+
+* https://jwt.io/
+* https://securityzines.com/flyers/jwt.html
+
 == Interesting/miscellaneous
 
 === Programming
