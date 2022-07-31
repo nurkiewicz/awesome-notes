@@ -26,6 +26,7 @@
 * https://dreampuf.github.io/GraphvizOnline
 * https://yuml.me/diagram/scruffy/class/samples
 * https://www.websequencediagrams.com/
+* https://www.diagrams.net/
 
 == System Design
 
@@ -40,6 +41,20 @@
 * https://jwt.io/
 * https://securityzines.com/flyers/jwt.html
 
+== Writing and speaking
+
+* https://youglish.com/
+* https://developers.google.com/tech-writing/overview[Overview of technical writing courses]
+
+== Bash
+
+Start every shell script with this:
+
+```bash
+#!/bin/bash
+set -e -x -o pipefail
+```
+
 == Interesting/miscellaneous
 
 === Programming
@@ -50,11 +65,6 @@
 === Other
 
 * https://threadreaderapp.com/thread/1397032784703655938.html["I'm getting ads for her toothpaste brand, the brand I've been putting in my mouth for a week. We never talked about this brand or googled it or anything like that"]
-
-== Writing and speaking
-
-* https://youglish.com/
-* https://developers.google.com/tech-writing/overview[Overview of technical writing courses]
 
 == Other people's notes
 
