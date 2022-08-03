@@ -32,6 +32,10 @@
 
 * https://www.epochconverter.com/
 
+=== Infrastructure
+
+* https://nip.io/[Dead simple wildcard DNS for any IP Address]
+
 == System Design
 
 * https://mobile.twitter.com/javinpaul/status/1536580563632418816[System Design Interview Cheat Sheet]
