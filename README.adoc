@@ -67,8 +67,12 @@ set -e -x -o pipefail
 
 === Programming
 
-* https://namingschemes.com[Naming Schemes]
 * https://programming-idioms.org/all-idioms
+
+==== Naming
+
+* https://namingschemes.com
+* https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go
 
 === Other
 
