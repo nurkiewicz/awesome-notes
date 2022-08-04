@@ -63,6 +63,10 @@ Start every shell script with this:
 set -e -x -o pipefail
 ```
 
+== GraphQL
+
+* https://xuorig.medium.com/a-guide-to-graphql-rate-limiting-security-e62a86ef8114[A Guide to GraphQL Rate Limiting & Security]
+
 == Interesting/miscellaneous
 
 === Programming
