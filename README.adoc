@@ -36,6 +36,10 @@
 
 * https://nip.io/[Dead simple wildcard DNS for any IP Address]
 
+=== Other
+
+* https://carbon.now.sh/[Carbon: Create and share beautiful images of your source code]
+
 == System Design
 
 * https://mobile.twitter.com/javinpaul/status/1536580563632418816[System Design Interview Cheat Sheet]
