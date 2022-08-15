@@ -43,6 +43,7 @@
 == System Design
 
 * https://mobile.twitter.com/javinpaul/status/1536580563632418816[System Design Interview Cheat Sheet]
+* https://blog.bytebytego.com/p/algorithms-you-should-know-before[Algorithms you should know before you take system design interviews]
 
 == Trainings
 
