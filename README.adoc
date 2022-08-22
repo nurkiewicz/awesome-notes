@@ -40,10 +40,20 @@
 
 * https://carbon.now.sh/[Carbon: Create and share beautiful images of your source code]
 
-== System Design
+== Architecture
+
+=== Databases
+
+* https://architecturenotes.co/things-you-should-know-about-databases/[Things You Should Know About Databases]
+
+=== System Design
 
 * https://mobile.twitter.com/javinpaul/status/1536580563632418816[System Design Interview Cheat Sheet]
 * https://blog.bytebytego.com/p/algorithms-you-should-know-before[Algorithms you should know before you take system design interviews]
+
+=== Microservies
+
+* https://twitter.com/Igfasouza/status/1559834948747624448[Design patterns for Microservices]
 
 == Trainings
 
