@@ -45,6 +45,7 @@
 === Databases
 
 * https://architecturenotes.co/things-you-should-know-about-databases/[Things You Should Know About Databases]
+* https://antonz.org/sqlite-is-not-a-toy-database/[SQLite is not a toy database]
 
 === System Design
 
