@@ -20,7 +20,11 @@
 
 == Tools
 
-=== Diagrams
+=== Visualization
+
+* https://www.visidata.org
+
+==== Diagrams
 
 * https://kroki.io/
 * https://dreampuf.github.io/GraphvizOnline
