@@ -87,6 +87,10 @@ set -e -x -o pipefail
 
 * https://xuorig.medium.com/a-guide-to-graphql-rate-limiting-security-e62a86ef8114[A Guide to GraphQL Rate Limiting & Security]
 
+== Computer Science
+
+* https://github.com/Developer-Y/cs-video-courses[Computer Science courses with video lectures]
+
 == Interesting/miscellaneous
 
 === Programming
