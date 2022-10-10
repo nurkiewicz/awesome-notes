@@ -45,6 +45,12 @@
 
 * https://nip.io/[Dead simple wildcard DNS for any IP Address]
 
+==== Networking
+
+```bash
+mtr --tcp google.com
+```
+
 === Other
 
 * https://carbon.now.sh/[Carbon: Create and share beautiful images of your source code]
