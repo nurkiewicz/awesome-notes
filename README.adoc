@@ -1,5 +1,5 @@
 :toc:
-:toclevels: 4
+:toclevels: 3
 
 = My personal notes
 
