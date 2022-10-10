@@ -28,9 +28,14 @@
 
 * https://kroki.io/
 * https://dreampuf.github.io/GraphvizOnline
+* https://www.diagrams.net/
+
+===== UML
+
 * https://yuml.me/diagram/scruffy/class/samples
 * https://www.websequencediagrams.com/
-* https://www.diagrams.net/
+* https://sequencediagram.org/
+
 
 === Time
 
