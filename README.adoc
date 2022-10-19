@@ -48,8 +48,12 @@
 ==== Networking
 
 ```bash
-mtr --tcp google.com
+sudo mtr --tcp google.com
 ```
+
+==== Docker
+
+* https://github.com/wagoodman/dive - show contents of each layer
 
 === Other
 
