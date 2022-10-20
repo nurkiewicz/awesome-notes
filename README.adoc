@@ -55,6 +55,17 @@ sudo mtr --tcp google.com
 
 * https://github.com/wagoodman/dive - show contents of each layer
 
+=== Command line
+
+Start every shell script with this:
+
+```bash
+#!/bin/bash
+set -e -x -o pipefail
+```
+
+* https://twitter.com/LinuxHandbook/status/1583081641744138240[`ls` tips and tricks]
+
 === Other
 
 * https://carbon.now.sh/[Carbon: Create and share beautiful images of your source code]
@@ -88,15 +99,6 @@ sudo mtr --tcp google.com
 
 * https://youglish.com/
 * https://developers.google.com/tech-writing/overview[Overview of technical writing courses]
-
-== Bash
-
-Start every shell script with this:
-
-```bash
-#!/bin/bash
-set -e -x -o pipefail
-```
 
 == GraphQL
 
