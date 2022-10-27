@@ -68,7 +68,7 @@ https://stackoverflow.com/questions/3096259/bash-command-to-sum-a-column-of-numb
 
 ```bash
 awk '{s += $1} END {print s}'
-````
+```
 
 * https://twitter.com/LinuxHandbook/status/1583081641744138240[`ls` tips and tricks]
 
