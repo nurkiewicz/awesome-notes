@@ -64,6 +64,12 @@ Start every shell script with this:
 set -e -x -o pipefail
 ```
 
+https://stackoverflow.com/questions/3096259/bash-command-to-sum-a-column-of-numbers[Sum numbers, one per line]:
+
+```bash
+awk '{s += $1} END {print s}'
+````
+
 * https://twitter.com/LinuxHandbook/status/1583081641744138240[`ls` tips and tricks]
 
 === Other
