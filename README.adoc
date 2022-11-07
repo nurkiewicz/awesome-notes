@@ -7,16 +7,23 @@
 
 * https://free-for.dev[free-for.dev]
 
+== Programming
+
+=== Java
+
+==== Spring
+
+* https://rieckpil.de/spring-boot-testing-mockmvc-vs-webtestclient-vs-testresttemplate/[Spring Boot Testing: MockMvc vs. WebTestClient vs. TestRestTemplate]
+
+==== Reactive
+
+* https://github.com/jesperancinha/concert-demos-root
 
 == Pro tips
 
 === Testing
 
 * https://threadreaderapp.com/thread/1549332873219657730.html[Few hints on how to write better tests]
-
-=== Spring
-
-* https://rieckpil.de/spring-boot-testing-mockmvc-vs-webtestclient-vs-testresttemplate/[Spring Boot Testing: MockMvc vs. WebTestClient vs. TestRestTemplate]
 
 == Tools
 
@@ -92,6 +99,10 @@ awk '{s += $1} END {print s}'
 
 * https://twitter.com/Igfasouza/status/1559834948747624448[Design patterns for Microservices]
 
+=== GraphQL
+
+* https://xuorig.medium.com/a-guide-to-graphql-rate-limiting-security-e62a86ef8114[A Guide to GraphQL Rate Limiting & Security]
+
 == Trainings
 
 * https://github.com/mikemybytes/kafka-training
@@ -106,21 +117,13 @@ awk '{s += $1} END {print s}'
 * https://youglish.com/
 * https://developers.google.com/tech-writing/overview[Overview of technical writing courses]
 
-== GraphQL
-
-* https://xuorig.medium.com/a-guide-to-graphql-rate-limiting-security-e62a86ef8114[A Guide to GraphQL Rate Limiting & Security]
-
 == Computer Science
 
 * https://github.com/Developer-Y/cs-video-courses[Computer Science courses with video lectures]
 
 == Interesting/miscellaneous
 
-=== Programming
-
-* https://programming-idioms.org/all-idioms
-
-==== Naming
+=== Naming
 
 * https://namingschemes.com
 * https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go
