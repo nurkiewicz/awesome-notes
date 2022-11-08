@@ -20,6 +20,7 @@
 * https://github.com/jesperancinha/concert-demos-root[_Demo application to show the power of Kotlin in a Reactive Programming environment_]
 * https://www.youtube.com/watch?v=eE5-dhP44dw[GeeCON 2019: Sergei Egorov - Don’t be Homer Simpson with your Reactor!]
 * https://blog.allegro.tech/2020/02/webflux-and-coroutines.html[Making Webflux code readable with Kotlin coroutines]
+* https://www.youtube.com/watch?v=FcwR34DFqIc[Going Reactive With Spring WebFlux, Kotlin Coroutines, and RSocket]
 
 == Pro tips
 
