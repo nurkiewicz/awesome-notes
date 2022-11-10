@@ -81,6 +81,7 @@ awk '{s += $1} END {print s}'
 ```
 
 * https://twitter.com/LinuxHandbook/status/1583081641744138240[`ls` tips and tricks]
+* https://github.com/jlevy/the-art-of-command-line[The Art of Command Line]
 
 === Other
 
