@@ -107,31 +107,39 @@ awk '{s += $1} END {print s}'
 
 * https://xuorig.medium.com/a-guide-to-graphql-rate-limiting-security-e62a86ef8114[A Guide to GraphQL Rate Limiting & Security]
 
-== Trainings
-
-* https://github.com/mikemybytes/kafka-training
-
 == Security
 
 * https://jwt.io/
 * https://securityzines.com/flyers/jwt.html
 
-== Writing and speaking
+== Samples
 
-* https://youglish.com/
-* https://developers.google.com/tech-writing/overview[Overview of technical writing courses]
+=== Databases
 
-== Computer Science
-
-* https://github.com/Developer-Y/cs-video-courses[Computer Science courses with video lectures]
-* https://github.com/ossu/computer-science[Open Source Society University. Path to a free self-taught education in Computer Science!]
-
-== Interesting/miscellaneous
+* https://github.com/jOOQ/sakila
 
 === Naming
 
 * https://namingschemes.com
 * https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go
+
+== Learning
+
+=== Computer Science
+
+* https://github.com/Developer-Y/cs-video-courses[Computer Science courses with video lectures]
+* https://github.com/ossu/computer-science[Open Source Society University. Path to a free self-taught education in Computer Science!]
+
+=== Writing and speaking
+
+* https://youglish.com/
+* https://developers.google.com/tech-writing/overview[Overview of technical writing courses]
+
+=== Trainings
+
+* https://github.com/mikemybytes/kafka-training
+
+== Interesting/miscellaneous
 
 === Quotes
 
