@@ -50,6 +50,7 @@
 === Time
 
 * https://www.epochconverter.com/
+* https://github.com/molly/static-timeline-generator[Static timeline generator]
 
 === Infrastructure
 
