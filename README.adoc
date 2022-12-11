@@ -33,6 +33,7 @@
 === Visualization
 
 * https://www.visidata.org
+* https://github.com/javierluraschi/awesome-dataviz
 
 ==== Diagrams
 
